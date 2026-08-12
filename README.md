@@ -8,7 +8,7 @@
 
 # ConvoWeave AI
 
-### Real-time AI meeting agents that participate during the call — and stay useful after it.
+### Real-time AI meeting agents that participate during the call - and stay useful after it.
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
